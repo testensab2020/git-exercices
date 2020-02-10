@@ -1,2 +1,6 @@
 Git exercices
+<<<<<<< HEAD
 Branch-b instructions...
+=======
+Branch-a instructions...
+>>>>>>> branch-a
